@@ -3,6 +3,8 @@ import time
 
 # This Is The Main File
 
-func.time.sleep(3)
+sleep = 5
+
+func.time.sleep(sleep)
 
 func.main('win', 'printscreen')
