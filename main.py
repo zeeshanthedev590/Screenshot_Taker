@@ -1,5 +1,4 @@
 import func
-import time
 
 # This Is The Main File
 
